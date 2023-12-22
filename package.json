@@ -21,8 +21,8 @@
     "react-native": "0.73.1",
     "react-native-safe-area-context": "4.7.4",
     "react-native-screens": "~3.27.0",
-    "react-native-turbo": "https://gitpkg.now.sh/software-mansion-labs/react-native-turbo-demo/packages/turbo?2770bfe3b362a631dd254996cfc6f7896ab4f37d",
-    "react-native-web-screen": "https://gitpkg.now.sh/software-mansion-labs/react-native-turbo-demo/packages/navigation?2770bfe3b362a631dd254996cfc6f7896ab4f37d",
+    "react-native-turbo": "https://gitpkg.now.sh/software-mansion-labs/react-native-turbo-demo/packages/turbo?e5a61f5ada83c7cdae1e3ce7b56411cda6c0bb8f",
+    "react-native-web-screen": "https://gitpkg.now.sh/software-mansion-labs/react-native-turbo-demo/packages/navigation?e5a61f5ada83c7cdae1e3ce7b56411cda6c0bb8f",
     "typescript": "^5.3.0"
   },
   "devDependencies": {
